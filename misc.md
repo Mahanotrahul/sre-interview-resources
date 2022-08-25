@@ -1,0 +1,2 @@
+1. What happens when you run a curl command in a shell? \
+Refer to this awesome answer by a fellow reddit user [Curl behind the scenes](https://www.reddit.com/r/linuxquestions/comments/avlbqi/comment/ehgoe37/)

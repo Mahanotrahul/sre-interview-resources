@@ -66,7 +66,7 @@ Refer to [OpenSource's Article on LVM](https://opensource.com/business/16/9/linu
 Refer to [IBM's article on linux Boot Process](https://developer.ibm.com/articles/l-linuxboot/)
 
 13. System Load Average\
-Refer to `man uptime`. That's right, mapages to the rescue.
+Refer to `man uptime`. That's right, man apages to the rescue.
 
 14. Explain various types of Linux Process States? \
 Refer to [RedHat's article on Linux process states](https://access.redhat.com/sites/default/files/attachments/processstates_20120831.pdf)

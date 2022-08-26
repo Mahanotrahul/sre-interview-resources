@@ -1,8 +1,8 @@
 ## List of Important and Useful Resources
 1. https://danrl.com/srm/
-2. https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859
-3. https://github.com/michaelkkehoe/sre-interview
-4. https://github.com/mxssl/sre-interview-prep-guide
+1. https://fabrizio2210.medium.com/how-i-get-a-job-at-google-as-sre-83d44aef7859
+1. https://github.com/michaelkkehoe/sre-interview
+1. https://github.com/mxssl/sre-interview-prep-guide
 
 
 ## Youtube Videos
